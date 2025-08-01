@@ -1,3 +1,4 @@
+ HEAD
 Yellow Haven Desktop App
 
 A desktop-based reporting and stock management system for Yellow Haven Bar. Built with HTML, JavaScript, Node.js, and Express, it enables bar staff to record, export, and email daily sales reports easily.
@@ -69,3 +70,7 @@ Peter Wacha, Yellow Haven Bar
 🛡️ License
 
 MIT License
+
+# barmanager
+A desktop-based reporting system for a Bar. Users can manage daily stock, calculate sales, export reports as Excel/PDF, and automatically email daily reports using Node.js, Express, and Nodemailer.
+>>>>>>> 7b9cde15ce70868501a8ea60f7c7150efe629b3c
